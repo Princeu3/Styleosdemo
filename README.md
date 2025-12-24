@@ -12,6 +12,7 @@
 | Resource | Description |
 |----------|-------------|
 | [Live Platform](https://styleos.dev) | Try StyleOS now |
+| [Demo Video](https://www.loom.com/share/e88704ff87ce421c981d09efd0e73611) | Watch the product demo |
 | [Pitch Deck](./styleos-pitch-deck.pdf) | Investor presentation |
 | [Technical Documentation](./PRODUCT.md) | Full product & architecture specs |
 | [Market Research](./StyleOS%20Sources.pdf) | AI-powered deep research analysis |
